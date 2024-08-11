@@ -64,7 +64,17 @@ iv.	X-Boost Classifier
 
 RECOMMENDATIONS: 
 1. Improve its Technical Support to render real-time processing of complaints
-2. Work on Pricing rates that attract and retain customers
+2. Work on pricing rates, give discounts to attract and retain customers at the same time maintain 
+    profit.
+3. Apply gamification strategies to create a user-friendly experience with their app to increase 
+    engagement and reward loyalty.
+4. Create active communication with the customers.
+5. Assign dedicated CSM (Customer Service Manager) to different categories of customers.
+6. Regular feedback surveys and conduct surveys when customers churn.
+7. A good customer onboarding program for new customers, led to an improvement in customer 
+    retention.
+8. Check churn regularly on a monthly and quarterly basis to know why customers are churning.
+
 
 
 
